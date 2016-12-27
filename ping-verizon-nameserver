@@ -1,1 +1,3 @@
-#!/usr/bin/env ping -qnc 1 4.2.2.1
+#!/bin/sh
+
+ping -qnc 1 4.2.2.1
