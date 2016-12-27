@@ -10,6 +10,6 @@ maybe if I just fabricate some activity once in a while, that won't happen.
 0. `sudo chown root:root /etc/cron.hourly/ping-verizon-nameserver`
 0. `sudo chmod +x /etc/cron.hourly/ping-verizon-nameserver`
 
-That last step might not be needed but some method of copying clear the execute bit.
+That last step is only needed if copying cleared the _execute_ bit.
 
 
