@@ -1,4 +1,4 @@
-# Raspberry Pi 3 Bits
+# Raspberry Pi 3 Odds and Ends
 
 ## Ping on the hour
 
